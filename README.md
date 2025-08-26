@@ -25,7 +25,7 @@ This project demonstrates how to host a static website using **Amazon S3's Stati
 
 5. Access the site using the bucket's **website endpoint**.
 <img width="1377" height="935" alt="image" src="https://github.com/user-attachments/assets/2c9aa232-f815-4a10-8645-81f8596c6f86" /> 
-http://starwars-static-website.s3-website-us-east-1.amazonaws.com 
+
 
 The pictures displayed in this README are to demonstrate the steps taken to create the static website. I delete all resources when done to avoid unnecessary charges 
 
