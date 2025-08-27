@@ -30,7 +30,8 @@ This project demonstrates how to host a static website using **Amazon S3's Stati
 - make sure to enable OAC (origin access controll) and update the s3 bucket with the generated policy after creating your distribution 
 <img width="1158" height="548" alt="Screenshot 2025-08-27 163920" src="https://github.com/user-attachments/assets/de423203-bda2-4777-9810-3a7119ed1159" /> 
 
-7. Once your distribution has been successfully made, you can use your cloud front's endpoint (example:eewewdf45t54.cloudfront.net) to access your website 
+7. Once your distribution has been successfully made, you can use your cloud front's endpoint (example:eewewdf45t54.cloudfront.net) to access your website
+8. create your own domain set up with SSL certificates through route 53 and ACM (AWS Certificate Manager)
 
 
 
